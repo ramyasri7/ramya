@@ -1,0 +1,2 @@
+# ramya
+The “tech talent gap” is real and it is growing but the cause of it is not the lack of passionate talented tech individuals, but the tech companies’ inability to access the talent that they require. If this issue goes unaddressed, the tech talent gap will keep increasing. It is extremely vital for tech companies to come up with innovative means to tackle this talent deficit which has been impeding the growth of a vast majority of companies.
